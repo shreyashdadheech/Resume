@@ -1,0 +1,36 @@
+body {
+	padding: 30px;
+
+
+}
+
+header, footer {
+		background: black;
+		color: gray;
+
+
+}
+p {
+	margin-left: "2px";
+
+}
+
+.work{
+	background: gray;
+	color: white;
+
+}
+
+.education {
+	background: lightgray;
+	color:white;
+
+
+}
+
+.image{
+	width: 700px;
+	height: 500px;
+	border-width: 20px;
+
+}
