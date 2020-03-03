@@ -3,12 +3,40 @@ body {
 
 
 }
+/*Header*/
+.profile-image{
+	margin: 20px;
+width: 300px;
+border-radius: 50%;
+float: left;
 
-header, footer {
+}
+header h1,  header h2 {
+		
+		/*margin: 0;*/
+		/*display: none;*/
+
+
+ }
+
+.Column {
+ 	margin: 20px;
+	width: 300px;
+/*border-radius: 50%;*/
+	float: left;
+}
+
+ .content-wrap{
+ 	overflow: auto;
+ 	/*margin: auto;*/
+ }
+
+ header, footer {
+ 	
 		background: black;
 		color: gray;
-
-
+		/*text-align: center;*/
+		overflow: auto;
 }
 p {
 	margin-left: "2px";
@@ -28,9 +56,9 @@ p {
 
 }
 
-.image{
+/*.image{
 	width: 700px;
 	height: 500px;
 	border-width: 20px;
 
-}
+}*/
