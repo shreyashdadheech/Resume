@@ -19,6 +19,10 @@ header h1,  header h2 {
 
  }
 
+.row {
+	float: left;
+}
+
 .Column {
  	margin: 20px;
 	width: 300px;
